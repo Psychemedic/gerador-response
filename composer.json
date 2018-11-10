@@ -1,0 +1,21 @@
+{
+    "name": "psychemedics/gerador-response",
+    "description": "Repositório do pacote de padronização de response para APIs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergio Hess",
+            "email": "hess.sergio@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "GeradorResponse": "src/"
+        }
+    }
+}
