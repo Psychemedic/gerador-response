@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Sergio Hess",
-            "email": "hess.sergio@gmail.com"
+            "email": "sergio.hess@psuchemedics.com.br"
         }
     ],
     "minimum-stability": "dev",
@@ -14,8 +14,8 @@
         "php": ">=5.4.0"
     },
     "autoload": {
-        "psr-0": {
-            "GeradorResponse": "src/"
+        "psr-4": {
+            "GeradorResponse\\": "src/"
         }
     }
 }
