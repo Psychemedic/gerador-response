@@ -34,7 +34,7 @@ Esse pacote é destinado a padronização da formatação das responses das APIs
 ## Instalação
 
 ```
-composer require psychemedics/psy-api
+composer require psychemedics/gerador-response
 ```
 
 ## Exemplo
